@@ -3,4 +3,6 @@ Esta es la historia de Adrian de 27 años
 Adian nacaio en México, esta orgulloso de su pais
 y ama a su gente
 
-Hoy hablaremos de su vida y obra mestra
+Hoy hablaremos de su vida y obra mestra.
+
+main 1
